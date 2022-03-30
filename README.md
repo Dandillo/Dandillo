@@ -10,7 +10,7 @@
 
 <br />
 
-Привет, меня зовут Данил, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и всякое разное.
+Привет, меня зовут Данил, я студент. Сейчас учусь на ИТ-специалиста. Изучил Git, HTML & CSS, написал пару простых приложений на JS.
 
 <br />
 
@@ -18,12 +18,18 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/javascript.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
 
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 
-* [ ] Пройти курс по Git на Slurm
-* [ ] Начать работать        
+* [*] Пройти курс по Git на Slurm
+* [*]Пройти курс RSSCHOOL STAGE#0
+* [ ] Найти стажировку   
 <!-- TODO-IST:END -->
