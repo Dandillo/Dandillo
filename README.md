@@ -12,6 +12,7 @@
 
 Привет, меня зовут Данил, я студент. Сейчас учусь на ИТ-специалиста. Изучил Git, HTML & CSS, написал пару простых приложений на JS.
 
+
 <br />
 
   
@@ -25,6 +26,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 Мои проекты: 
+* https://dandillo.github.io/audio-player/
+* https://dandillo.github.io/random-jokes/
+* https://dandillo.github.io/portfolio/
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
