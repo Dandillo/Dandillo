@@ -26,10 +26,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 Мои проекты: 
+<!-- TODO-IST:START -->
+
 https://dandillo.github.io/audio-player/ – Аудиоплеер
 https://dandillo.github.io/random-jokes/ - Генератор цитат из сериала (API)
 https://dandillo.github.io/portfolio/ – Сайт с портфолио фотографа
 https://dandillo.github.io/rsschool-cv/ – первый проект CV.
+<!-- TODO-IST:END -->
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
