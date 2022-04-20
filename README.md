@@ -32,6 +32,7 @@ https://dandillo.github.io/audio-player/ – Аудиоплеер
 https://dandillo.github.io/random-jokes/ - Генератор цитат из сериала (API)
 https://dandillo.github.io/portfolio/ – Сайт с портфолио фотографа
 https://dandillo.github.io/rsschool-cv/ – первый проект CV.
+https://rolling-scopes-school.github.io/dandillo-JSFE2022Q1/shelter/pages/main/index.html - Проект "Shelter"
 <!-- TODO-IST:END -->
 
 🚧 **Мои задачи на ближайшее время:**
