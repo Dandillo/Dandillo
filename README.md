@@ -33,10 +33,4 @@ https://dandillo.github.io/rsschool-cv/ – первый проект CV.
 https://rolling-scopes-school.github.io/dandillo-JSFE2022Q1/shelter/pages/main/index.html - Проект "Shelter"
 <!-- TODO-IST:END -->
 
-🚧 **Мои задачи на ближайшее время:**
-<!-- TODO-IST:START -->
 
-* [✔] Пройти курс по Git на Slurm
-* [✔]Пройти курс RSSCHOOL STAGE#0
-* [ ] Найти стажировку   
-<!-- TODO-IST:END -->
